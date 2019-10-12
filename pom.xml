@@ -6,7 +6,7 @@
     <groupId>org.iut.nantes</groupId>
     <artifactId>myproject</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <modules>
         <module>app</module>
         <module>calcul</module>
@@ -17,7 +17,7 @@
     <description>Vive le monde libre</description>
     <scm>
         <developerConnection>scm:git:https://github.com/Developpix/maven-tp.git</developerConnection>
-        <tag>1.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
