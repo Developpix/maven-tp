@@ -1,0 +1,14 @@
+# Eclipse
+bin/
+.settings/
+.project
+.classpath
+
+# Intellij
+.idea/
+.attach_pid*
+*.iml
+
+# Maven
+target/
+
