@@ -11,4 +11,5 @@ bin/
 
 # Maven
 target/
-
+*.releaseBackup*
+release.properties*
