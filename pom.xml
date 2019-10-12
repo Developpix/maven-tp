@@ -142,7 +142,7 @@
                     <version>2.5.3</version>
                     <configuration>
                         <preparationGoals>clean verify test</preparationGoals>
-                        <tagNameFormat>v${project.version}</tagNameFormat>
+                        <tagNameFormat>v@{project.version}</tagNameFormat>
                     </configuration>
                 </plugin>
             </plugins>
